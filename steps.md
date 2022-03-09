@@ -28,6 +28,12 @@ Per la creazione del seguente progetto avremo bisogno di:
 # INFRASTRUTTURA
 L'esempio di infrastruttura che utilizzeremo per il nostro progetto sarà:<br>
 
+>            ip LAN: 192.168.20.0/24
+>            ip MIKROTIK LAN: 192.168.20.1
+
+>            ip WAN: 192.168.10.0/24
+>            ip MIKROTIK WAN: 192.168.10.222
+
 <br><br>
 
 # CREAZIONE INTERFACCE LAN E WAN

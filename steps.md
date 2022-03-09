@@ -1,16 +1,15 @@
-# Creazione VPN Site-to-Site e sincronizzazione tra NAS Synology :computer:
-L'obiettivo finale sarà quello di creare una sincronizzazione tra cartelle di due NAS remoti.<br>
+# Configurazione principale Router Mikrotik per connessione sicura ad internet :computer:
+L'obiettivo finale sarà quello di creare una rete privata con un router Mikrotik connesso ad internet.<br>
 <br>
 
 Per la creazione del seguente progetto avremo bisogno di:
->            due router Mikrotik
->            due NAS Synology
->            permessi di amministratore
+>            un router Mikrotik
+>            un PC
+>            due cavi ethernet
 >            buona connessione ad internet
->            relativi cavi ethernet
+>            infrastruttura provider internet
 
-[CREAZIONE VPN SITE TO SITE](#CREAZIONE-VPN-SITE-TO-SITE)<br><br>
-[SINCRONIZZAZIONE NAS](#SINCRONIZZAZIONE-NAS)<br><br>
+[CONFIGURAZIONE PRINCIPALE](#CONFIGURAZIONE-PRINCIPALE)<br><br>
 
-# CREAZIONE VPN SITE TO SITE
+# CONFIGURAZIONE PRINCIPALE
 L'esempio di infrastruttura che utilizzeremo per il nostro progetto sarà:

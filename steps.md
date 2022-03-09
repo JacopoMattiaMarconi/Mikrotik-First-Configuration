@@ -9,7 +9,51 @@ Per la creazione del seguente progetto avremo bisogno di:
 >            buona connessione ad internet
 >            infrastruttura provider internet
 
-[CONFIGURAZIONE PRINCIPALE](#CONFIGURAZIONE-PRINCIPALE)<br><br>
+[INFRASTRUTTURA](#INFRASTRUTTURA)<br><br>
 
-# CONFIGURAZIONE PRINCIPALE
-L'esempio di infrastruttura che utilizzeremo per il nostro progetto sarà:
+[CREAZIONE INTERFACCE LAN E WAN](#CREAZIONE-INTERFACCE-LAN-E-WAN)<br><br>
+
+[ASSEGNAZIONE INDIRIZZI IP](#ASSEGNAZIONE-INDIRIZZI-IP)<br><br>
+
+[CONFIGURAZIONE DNS](#CONFIGURAZIONE-DNS)<br><br>
+
+[DICHIARAZIONE POOL DHCP SERVER](#DICHIARAZIONE-POOL-DHCP-SERVER)<br><br>
+
+[IMPOSTAZIONE REGOLE NAT](#IMPOSTAZIONE-REGOLE-NAT)<br><br>
+
+[DICHIARAZIONE DELLE ROUTES](#DICHIARAZIONE-DELLE-ROUTES)<br><br>
+
+[CREAZIONE FILE DI BACKUP](#CREAZIONE-FILE-DI-BACKUP)<br><br>
+
+# INFRASTRUTTURA
+L'esempio di infrastruttura che utilizzeremo per il nostro progetto sarà:<br>
+
+<br><br>
+
+# CREAZIONE INTERFACCE LAN E WAN
+
+<br><br>
+
+# ASSEGNAZIONE INDIRIZZI IP
+
+<br><br>
+
+# CONFIGURAZIONE DNS
+
+<br><br>
+
+# DICHIARAZIONE POOL DHCP SERVER
+
+<br><br>
+
+# IMPOSTAZIONE REGOLE NAT
+
+<br><br>
+
+# DICHIARAZIONE DELLE ROUTES
+
+<br><br>
+
+# CREAZIONE FILE DI BACKUP
+
+<br><br>
